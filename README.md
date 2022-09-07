@@ -4,4 +4,4 @@ Used Python's **Beautiful Soup** to parse HTML of a user-inputted product from N
 
 #### Demo
 
-<p><img align="left" alt="gif" src="https://github.com/HamaadYousaf/PasswordManager/blob/main/demo.png" width="400"/></p>
+<p><img align="left" alt="gif" src="https://github.com/HamaadYousaf/Web-Scraper/blob/main/demo.png" width="400"/></p>
